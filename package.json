@@ -1,0 +1,22 @@
+{
+  "name": "asynccheck",
+  "version": "1.0.0",
+  "description": "Async Checkpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mangits/USSF-js-async-checkpoint.git"
+  },
+  "author": "Mark",
+  "license": "ISC",
+  "bin": {
+    "asyncCheck": "./index.js"
+  }
+  "bugs": {
+    "url": "https://github.com/mangits/USSF-js-async-checkpoint/issues"
+  },
+  "homepage": "https://github.com/mangits/USSF-js-async-checkpoint#readme"
+}
